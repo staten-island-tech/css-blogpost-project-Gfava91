@@ -1,11 +1,16 @@
-h1{
 
-background-color: navy;
-color: springgreen;
+
+.Blogpost{
+background-color: black;
+color: #ffffff;
+margin: 60px;
+text-align: center;
 }
 
-body {
-    background-color: navy;
-color: royalblue;
+.post {
+    background-color: black;
+color: white;
 font-size: 25px;
+margin: 60px;
+text-align: center;
 }
