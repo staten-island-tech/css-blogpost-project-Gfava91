@@ -1,9 +1,11 @@
 
-
+.Blogpost{
+    background-color: black;
+    }
 .Title{
 background-color: black;
 color: #ffffff;
-margin: 120px auto;
+margin: 0in;
 text-align: center;
 }
 .post{
@@ -12,8 +14,10 @@ color: white;
 font-size: 25px;
 margin: 90px;
 text-align: center;
-border: 5px;
-border-color: yellow;
+border-color: white;
+border-width: 20px ;
+border-style: solid;
+font-style: ;
 }
 
 
