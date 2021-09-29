@@ -7,17 +7,20 @@ background-color: black;
 color: #ffffff;
 margin: 0in;
 text-align: center;
+font-family: 'Oxygen', sans-serif;
 }
 .post{
     background-color: black;
 color: white;
 font-size: 25px;
-margin: 90px;
+margin-top: 90px;
+margin-left: 90px;
+margin-right: 90px;
 text-align: center;
 border-color: white;
 border-width: 20px ;
 border-style: solid;
-font-style: ;
+font-family: 'Ephesis', cursive;
 }
 
 
