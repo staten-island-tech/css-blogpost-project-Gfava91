@@ -1,26 +1,6 @@
-
-.Blogpost{
-    background-color: black;
-    }
-.Title{
-background-color: black;
-color: #ffffff;
-margin: 0in;
-text-align: center;
-font-family: 'Oxygen', sans-serif;
+.Blogpost {
+  background-color: black;
+  color: #ffffff;
+  margin: 60px;
+  text-align: center;
 }
-.post{
-    background-color: black;
-color: white;
-font-size: 25px;
-margin-top: 90px;
-margin-left: 90px;
-margin-right: 90px;
-text-align: center;
-border-color: white;
-border-width: 20px ;
-border-style: solid;
-font-family: 'Ephesis', cursive;
-}
-
-
